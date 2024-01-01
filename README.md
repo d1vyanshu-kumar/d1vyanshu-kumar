@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @d1vyanshu-kumar
-- 👀 I’m interested in learning new stuff about technology 
+- 👀 I’m interested in learning new stuff about technology/code.
 - 🌱 I’m currently learning computer science (AI/ML)
 - 💞️ I’m looking to collaborate on open source and technology
   
