@@ -1,9 +1,13 @@
 <div align="centre">
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp;Hi, I’m Divyanshu. Welcome to my GitHub profile! &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp;<h1><em>Hi, I’m Divyanshu_Kumar. Welcome to my GitHub profile!</em></h1> &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+<br>
+<br><a href="https://www.instagram.com/divyanshu_k.__nayak__/"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100"><img src="https://forthebadge.com/images/badges/made-with-markdown.svg" width="230" height="30" alt="Instagrm"></a>
+
 
 
 
 </div>
+<br>
 
 
 
