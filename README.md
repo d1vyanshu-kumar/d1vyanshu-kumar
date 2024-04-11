@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=ec9783&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋🏻+I'm+Divyanshu;+Open+Source+Enthusiast+☀;Full+Stack+Developer+💻;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=ec9783&size=30&center=true&vCenter=true&width=550&height=70&lines=Hi+There+👋🏻+I'm+Divyanshu+Nayak;+Open+Source+Enthusiast+☀;Full+Stack+Developer;ProblemSolver+💻;">
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
@@ -27,6 +27,7 @@ I'm Divyanshu Kumar, a 20 years old web developer from india.
 
 ## Contact
 - 📫 How to reach me: kumardivyanshu118@gmail.com
+- 🥷 portfolio Link : https://nykportfolio-divyanshu.web.app/
 <br>
 <a href="https://www.instagram.com/divyanshu_k.__nayak__/"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100">
 </a>
