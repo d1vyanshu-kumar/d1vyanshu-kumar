@@ -20,7 +20,7 @@ I'm Divyanshu Kumar, a 20 years old web developer from india.
 
 ## Skills
 - 👨‍💻 JavaScript, HTML, Java, TypeScript, python, etc...
-- ⚙️ React, Svelte, Vue, Next
+- ⚙️ React, Vue, Next
 - 👁️ SASS, CSS(Tailwind Css), Stylus
 - 💽 MySQL, SQL, Mongo
 + a lot more :D
