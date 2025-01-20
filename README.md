@@ -7,7 +7,7 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
 <br>
 ## Welcome! 👋
-I'm Divyanshu Kumar, a 20 years old web developer from india.
+I'm Divyanshu Kumar, a 21 years old web developer from india.
 
 - 👨‍💻 Passionate BTech Candidate in Computer Science (AI&ML) at Function Up School of Technology'27 
 
