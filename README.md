@@ -7,9 +7,9 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
 <br>
 ## Welcome! 👋
-I'm Divyanshu Kumar, a 21 years old web developer from india.
+I'm Divyanshu Kumar Nayak, a 21 years old Software developer from india.
 
-- 👨‍💻 Passionate BTech Candidate in Computer Science (AI&ML) at Function Up School of Technology'27 
+- 👨‍💻 Passionate BTech Candidate in Computer Science (AI&ML) at Polaris School of Technology'27 
 
 - 🥷 Skilled in diverse technologies | @Problem-Solver | Entrepreneurial | Trading Aficionado| Music-Lover.
 
@@ -19,10 +19,13 @@ I'm Divyanshu Kumar, a 21 years old web developer from india.
 + a lot more ;)
 
 ## Skills
-- 👨‍💻 JavaScript, HTML, Java, TypeScript, python, etc...
-- ⚙️ React, Vue, Next
-- 👁️ SASS, CSS(Tailwind Css), Stylus
-- 💽 MySQL, SQL, Mongo
+- 👨‍💻 JavaScript, HTML, Java, TypeScript, python, Dart, kotlin ...
+- ⚙️ Spring Boot, React.js, Next.js, Vue.js, Express.js, Node.js, GWT ...
+- 👁️ SASS, CSS(Tailwind Css), Stylus ...
+- 🧰 Tools: Git, GitHub, GitLab, Postman ...
+- 💽 MongoDB, MySQL, PostgreSQL ...
+- 💻 Software: Docker, Kubernetes, Kafka, Flyway, WireMock, Schema Registry, OpenAPI, Swagger, Grafana, Prometheus, Resilience4J ...
+- 😉 Soft Skills: Time Management, Problem-Solving, Documentation, Engaging Presentation, Leadership, On-Site Coordination ...
 + a lot more :D
 
 ## Contact
