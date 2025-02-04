@@ -49,7 +49,7 @@ I'm Divyanshu Kumar, a 21 years old web developer from india.
 
 
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=d1vyanshu-kumar&color=blue&style=flat-square)
 </div>
 
 
