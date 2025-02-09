@@ -31,7 +31,7 @@ I'm Divyanshu Kumar Nayak, a 21 years old Software developer from india.
 ## Contact
 - 📫 How to reach me: kumardivyanshu118@gmail.com
 - 🥷 portfolio Link : https://nykportfolio-divyanshu.web.app/
-- 💼 Resume Link: https://drive.google.com/file/d/1_8mfjunqdk81d5SLJcbbdLOoSzVjpgp4/view?usp=sharing
+- 💼 Resume Link:[ https://drive.google.com/file/d/1_8mfjunqdk81d5SLJcbbdLOoSzVjpgp4/view?usp=sharing](https://drive.google.com/file/d/1KU7OQ_9T4rMeD_Ut2GCXxM6_KSwfkpCW/view?usp=sharing)
 <br>
 
 <a href="https://www.linkedin.com/in/divyanshu-kumar-24026b296/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
