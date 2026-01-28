@@ -7,7 +7,7 @@
 ## Hi there,  I'm Divyanshu Kumar Nayak 👋
 
 **Software Developer** based in India,
-*Student at Polaris School of Technology (Affiliated with Starex University) (AI & ML,Class of '27)*
+*Student at Polaris School of Technology (Starex University) (AI & ML,Class of '27)*
 
 ---
 
