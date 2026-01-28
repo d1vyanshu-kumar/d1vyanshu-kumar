@@ -28,7 +28,6 @@ I specialize in building **high-performance backend systems** and **intuitive us
 ## Contact
 - 📫 How to reach me: kumardivyanshu118@gmail.com
 - 🥷 portfolio Link : https://nykportfolio-divyanshu.web.app/   | 🚧 will update soon...
-- 💼 Resume Link: https://drive.google.com/file/d/12fXHuu3gyY1NreadNRnZh4I3Rr6gNAp9/view?usp=sharing
 <br>
 
 <a href="https://www.linkedin.com/in/divyanshu-kumar-24026b296/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
