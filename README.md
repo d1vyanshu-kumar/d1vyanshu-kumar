@@ -27,7 +27,7 @@ I specialize in building **high-performance backend systems** and **intuitive us
 
 ## Contact
 - 📫 How to reach me: kumardivyanshu118@gmail.com
-- 🥷 portfolio Link : https://divyanshu-kumar-portfolio.vercel.app/  (Made with and By Love🧡)
+- 🥷 portfolio Link : https://divyanshu-kumar-portfolio.vercel.app/  
 <br>
 
 <a href="https://www.linkedin.com/in/divyanshu-kumar-24026b296/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
