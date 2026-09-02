@@ -14,7 +14,7 @@
 I specialize in building **high-performance backend systems** and **intuitive user interfaces**. My work is driven by a passion for **open-source software** and entrepreneurial innovation.
 
 *   **Focus:** Microservices, Cloud-Native Architecture, and AI integration.
-*   **Beyond Code:**  🎵 Music Enthusiast | 🚀 Startup Builder
+*  **Beyond Code:** 🎵 Music Enthusiast | 🚀 Startup Talks & Founder Journeys
 
 ## ⚡ Tech Stack
 
