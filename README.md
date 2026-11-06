@@ -5,7 +5,7 @@ I am an open-source software engineer and build backend systems and the infrastr
 **Debezium / Red Hat | [Google Summer of Code 2026](https://summerofcode.withgoogle.com/programs/2026/projects/1xyxocte)**
 
 Designed and implemented a host-based deployment path for the [Debezium Platform](https://github.com/debezium/debezium-platform), extending deployment beyond Kubernetes to remote Linux hosts, virtual machines, and bare-metal servers. The implementation covers SSH configuration parsing and host discovery, filesystem watching and reconciliation, Ansible-based provisioning, a standalone Quarkus Host Agent, pipeline lifecycle operations, status monitoring, configuration drift detection, and concurrency-safe host allocation.
-[Host-based deployment: final report and architecture](https://github.com/debezium/debezium-design-documents/blob/main/gsoc/2026/d1vyanshu-kumar/final_submission.md), [Parent Tracker Issue](https://github.com/debezium/dbz/issues/2085)
+[Host-based deployment: final report and architecture](https://github.com/debezium/debezium-design-documents/blob/main/gsoc/2026/d1vyanshu-kumar/final_submission.md), [Parent Tracker Issue](https://github.com/debezium/dbz/issues/2085), [Design Doc](https://github.com/d1vyanshu-kumar/debezium-design-documents/blob/2f320972d85d331b17eff3cb9ccbbbfb2d13f98c/DDD-41.md)
 
 Contributed fixes to connector behaviour and CDC access validation: [PostgreSQL: unchanged TOASTed JSONB values](https://github.com/debezium/debezium/pull/7168). Fixed an issue where unchanged TOASTed JSONB columns could appear as null in the after image.[SQL Server: CDC permission validation](https://github.com/debezium/debezium/pull/7132). Corrected validation when CDC is enabled at the database level but no tables are tracked yet.
 
