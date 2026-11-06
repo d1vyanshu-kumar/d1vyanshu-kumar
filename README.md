@@ -1,62 +1,35 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=ec9783&size=30&center=true&vCenter=true&width=550&height=70&lines=Hi+There+👋🏻+I'm+Divyanshu+Nayak;+Open+Source+Enthusiast+☀;Full+Stack+Developer;ProblemSolver+💻;">
-</p>
+I am an open-source software engineer and build backend systems and the infrastructure around them, primarily in Java, Go and Rust. My work has centred on event-driven systems, change data capture, databases, cloud native tools and the tooling needed to deploy and operate distributed workloads.I contribute to established open-source projects, where the work often involves understanding an existing codebase, tracing behaviour across components, and making changes that fit the project's architecture. My recent work includes host-based deployment for the Debezium Platform, fixes in Debezium Core, and a mobile-responsive implementation for MIT App Inventor.
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
-<br>
-## Hi there,  I'm Divyanshu Kumar Nayak 👋
+## Open-source work
 
-**Software Developer** based in India,
-*Student at Polaris School of Technology (Starex University) (AI & ML,Class of '27)*
+**Debezium / Red Hat | [Google Summer of Code 2026](https://summerofcode.withgoogle.com/programs/2026/projects/1xyxocte)**
 
----
+Designed and implemented a host-based deployment path for the [Debezium Platform](https://github.com/debezium/debezium-platform), extending deployment beyond Kubernetes to remote Linux hosts, virtual machines, and bare-metal servers. The implementation covers SSH configuration parsing and host discovery, filesystem watching and reconciliation, Ansible-based provisioning, a standalone Quarkus Host Agent, pipeline lifecycle operations, status monitoring, configuration drift detection, and concurrency-safe host allocation.
+[Host-based deployment: final report and architecture](https://github.com/debezium/debezium-design-documents/blob/main/gsoc/2026/d1vyanshu-kumar/final_submission.md), [Parent Tracker Issue](https://github.com/debezium/dbz/issues/2085)
 
-I specialize in building **high-performance backend systems** and **intuitive user interfaces**. My work is driven by a passion for **open-source software** and entrepreneurial innovation.
+Contributed fixes to connector behaviour and CDC access validation: [PostgreSQL: unchanged TOASTed JSONB values](https://github.com/debezium/debezium/pull/7168). Fixed an issue where unchanged TOASTed JSONB columns could appear as null in the after image.[SQL Server: CDC permission validation](https://github.com/debezium/debezium/pull/7132). Corrected validation when CDC is enabled at the database level but no tables are tracked yet.
 
-*   **Focus:** Microservices, Cloud-Native Architecture, and AI integration.
-*  **Beyond Code:** 🎵 Music Enthusiast | 🚀 Startup Talks & Founder Journeys
+**MIT App Inventor | Google Summer of Code 2025**
 
-## ⚡ Tech Stack
+Worked on making the App Inventor authoring experience responsive on mobile devices, covering the Project Explorer, Designer, Blockly editor, navigation, and supporting UI components.
+The implementation builds on the existing GWT and UiBinder architecture rather than relying on a CSS-only retrofit.
+[Mobile-responsive implementation and review history](https://github.com/mit-cml/appinventor-sources/pull/3491), [Other merged App Inventor contributions](https://github.com/mit-cml/appinventor-sources/pulls?q=is%3Apr+author%3Ad1vyanshu-kumar+is%3Amerged)
 
-*   **Languages:** Java, TypeScript, JavaScript, SQL, Go, Python
-*   **Backend:** Spring Boot, Spring Cloud, Node.js, Express.js, Kafka
-*   **Frontend:** Next.js, Vue.js, Angular, HTML5
-*   **DevOps:** AWS, Docker, Kubernetes (K8s), Jenkins, GitHub Actions
-*   **Observability:** Prometheus, Grafana, Loki, Tempo
-*   **Core Concepts:** Microservices, Event-Driven Architecture, System Design
+[**Open Source Contribution Portfolio**](https://docs.google.com/document/d/1mP5n6P_U8J4taswqQXOP4xJ-wegROmPZDi5m2TqyFyw/edit?usp=sharing)
 
-## Contact
-- 📫 How to reach me: kumardivyanshu118@gmail.com
-- 🥷 portfolio Link : [divyanshunyk.pages.dev](https://portfolio-divyanshunyk.pages.dev/)
-<br>
+## Writing / Blogs
+https://dev.to/d1vyanshukumar/ </br>
+https://medium.com/@kumardivyanshu118
 
-<a href="https://www.linkedin.com/in/divyanshu-kumar-24026b296/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
-</a>
+-----
 
-<br />
-<div align="center">
-  <h3>❤️ My Inspiration</h3>
+<h3>❤️ My Inspiration</h3>
   <p>
     <em>“If someone betrays you once, it’s their fault; <br>
     if they betray you twice, it’s your fault.”</em>
   </p>
   <p><strong>― Eleanor Roosevelt</strong></p>
-</div>
-<br />
-
-
-
-<br><br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
-</div>
-
-
-
+</br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=d1vyanshu-kumar&color=blue&style=flat-square)
 </div>
