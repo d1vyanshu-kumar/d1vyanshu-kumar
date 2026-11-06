@@ -21,17 +21,9 @@ The implementation builds on the existing GWT and UiBinder architecture rather t
 https://dev.to/d1vyanshukumar/ </br>
 https://medium.com/@kumardivyanshu118
 
------
+</br></br>
 
-<h3>❤️ My Inspiration</h3>
-  <p>
-    <em>“If someone betrays you once, it’s their fault; <br>
-    if they betray you twice, it’s your fault.”</em>
-  </p>
-  <p><strong>― Eleanor Roosevelt</strong></p>
-</br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=d1vyanshu-kumar&color=blue&style=flat-square)
+ ![Profile Views](https://komarev.com/ghpvc/?username=d1vyanshu-kumar&color=blue&style=flat-square)
 </div>
 
 
