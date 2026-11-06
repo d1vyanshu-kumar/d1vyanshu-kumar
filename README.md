@@ -9,7 +9,7 @@ Designed and implemented a host-based deployment path for the [Debezium Platform
 
 Contributed fixes to connector behaviour and CDC access validation: [PostgreSQL: unchanged TOASTed JSONB values](https://github.com/debezium/debezium/pull/7168). Fixed an issue where unchanged TOASTed JSONB columns could appear as null in the after image.[SQL Server: CDC permission validation](https://github.com/debezium/debezium/pull/7132). Corrected validation when CDC is enabled at the database level but no tables are tracked yet.
 
-**MIT App Inventor | Google Summer of Code 2025**
+**MIT App Inventor | [Google Summer of Code 2025](https://summerofcode.withgoogle.com/archive/2025/projects/mW5rZglq)**
 
 Worked on making the App Inventor authoring experience responsive on mobile devices, covering the Project Explorer, Designer, Blockly editor, navigation, and supporting UI components.
 The implementation builds on the existing GWT and UiBinder architecture rather than relying on a CSS-only retrofit.
