@@ -18,8 +18,8 @@ The implementation builds on the existing GWT and UiBinder architecture rather t
 [**Open Source Contribution Portfolio**](https://docs.google.com/document/d/1mP5n6P_U8J4taswqQXOP4xJ-wegROmPZDi5m2TqyFyw/edit?usp=sharing)
 
 ## Writing / Blogs
-https://dev.to/d1vyanshukumar/ </br>
-https://medium.com/@kumardivyanshu118
+
+https://portfolio-divyanshunyk.pages.dev/blog/
 
 </br></br>
 
