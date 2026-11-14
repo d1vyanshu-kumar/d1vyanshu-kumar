@@ -19,7 +19,7 @@ The implementation builds on the existing GWT and UiBinder architecture rather t
 
 ## Writing / Blogs
 
-https://portfolio-divyanshunyk.pages.dev/blog/
+[https://portfolio-divyanshunyk.pages.dev/blog/](https://divyanshukumar.me/blog/)
 
 </br></br>
 
